@@ -1,0 +1,15 @@
+h1{
+    color: rgb(216, 24, 24);
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+body{
+    background-image: url("Logo1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
